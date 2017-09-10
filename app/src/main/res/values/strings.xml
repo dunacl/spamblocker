@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpamBlocker</string>
+    <string name="btn_title_sync">Sync</string>
+    <string name="btn_title_localdb">Local DB</string>
+</resources>
